@@ -1,0 +1,176 @@
+[
+    {
+        "Language": "vi",
+        "Folder": {
+            "Index": {
+                "ErrAppState": "Appstate - Cookie Của Bạn Đã Bị Lỗi, Hãy Thay Cái Mới, Hoặc Vô Trình Duyệt Ẩn Danh Rồi Đăng Nhập Và Thử Lại !",
+                "CheckPointLevelI": "Phát Hiện CheckPoint - Không Đăng Nhập Được, Hãy Thử Logout Rồi Login Và Lấy Lại Appstate - Cookie !",
+                "UID": "Đăng Nhập Tại ID: %1",
+                "Area": "Vùng Của Tài Khoản Là: %1",
+                "NoAreaData": "Không Thể Lấy Vùng Của Tài Khoản !",
+                "OnLogin": "Đang Đăng Nhập ...",
+                "InvaildAccount": "Sai Mật Khẩu Hoặc Tài Khoản !",
+                "TwoAuth": "Bạn Đang Bật 2 Bảo Mật !",
+                "InvaildTwoAuthCode": "Sai Mã Hai Bảo Mật !",
+                "ApprovalsErr": "Lỗi Khi Đăng Nhập Với Hai Bảo Mật !",
+                "VerifiedCheck": "Xác Nhận Từ Trình Duyệt, Đang Đăng Nhập...",
+                "ForceLoginNotEnable": "Không Thể Đăng Nhập, Hãy Thử Bật 'forceLogin' !",
+                "SubmitErrSuccess": "Đã Gửi Báo Cáo Lỗi Tới Server !",
+                "ErrorWhileSendErr": "Đã Xảy Ra Lỗi Khi Cố Gửi Lỗi Đến Server !",
+                "OnProcess": "Khởi Động Tiến Trình Đăng Nhập !",
+                "BackupNoti": "Đang Thay AppState Từ Backup, Nếu Điều Này Tiếp Tục Diễn Ra, Hãy Liên Hệ Với Fb.com/Monster.suqad.onwer",
+                "ErrGetPassWord": "Lỗi Khi Lấy Mật Khẩu Mã Hoá AppState !",
+                "ErrGenerateKey": "Lỗi Khi Tạo Mật Khẩu Cho AppState !",
+                "UnsupportedDevice": "Hệ Điều Hành Của Bạn Hiện Không Được Hỗ Trợ !",
+                "NotReadyToDecrypt": "Chưa Sẵn Sàng Để Giải Hóa Appstate !",
+                "DecryptSuccess": "Giải Hóa Appstate Thành Công !",
+                "ErrBackup": "Lỗi Khi Sao Lưu AppState, Hãy Thay AppState !",
+                "DecryptFailed": "Giải Hóa Không Thành Công, Hãy Thử Thay AppState !",
+                "InvaildAppState": "Không Nhận Dạng Được AppState, Xin Vui Lòng Thay AppState !",
+                "YourAppStatePass": "Mật Khẩu AppState Của Bạn Là: %1",
+                "BackupFailed": "Sao Lưu AppState Không Thành Công !",
+                "ScreenShotConsoleAndSendToAdmin": "Chụp Lại Màn Hình Dòng Này Và Gửi Vô Facebook: Fb.com/Monster.suqad.onwer",
+                "DoneLogin": "Hoàn Thành Quá Trình Đăng Nhập !",
+                "AutoCheckUpdate": "Đang Kiểm Tra Bản Cập Nhật !",
+                "NewVersionFound": "Phiên Bản Mới Đã Được Cập Nhật: %1 => %2",
+                "AutoUpdate": "Tiến Hành Tự Động Cập Nhật Lên Phiên Bản Mới Nhất !",
+                "UpdateSuccess": "Nâng Cấp Phiên Bản Thành Công !",
+                "RestartAfterUpdate": "Đang Khởi Động Lại Để Phiên Bản Mới Có Hiệu Lực !",
+                "UpdateFailed": "Lỗi Khi Nâng Cấp Lên Phiên Bản Mới Nhất !",
+                "UseSupportToolAfterUpdateFailed": "Nâng Cấp Thức Bại, Tiến Hành Sử Dụng Công Cụ Hỗ Trợ !",
+                "InstallSupportTool": "Đang Tải Dụng Cụ Hộ Trợ Cho Fca !",
+                "NotiAfterUseToolFail": "Hãy Tự Fix Bằng Cách Nhập:",
+                "LocalVersion": "Phiên Bản Đang Dùng Hiện Tại Là: %1 !",
+                "EncryptSuccess": "Mã Hoá AppState Thành Công !",
+                "ProcessDone": "Kết Thúc Với: %1 !",
+                "CountTime": "Tổng Thời Gian Bạn Sử Dụng: %1",
+                "InvaildMainColor": "%1 Không Phải Là Một Màu Hex !",
+                "IsNotABoolean": "%1 Không Phải Là Một Boolean, Cần Là true Hoặc false !",
+                "InvaildOption": "%1 Không Phải Là Một Lựa Chọn !",
+                "EncryptStateOff": "Tính Năng EncryptState Đã Bị Tắt !",
+
+                "AutoLogin": "AutoLogin Đang Bật, Tiến Hành Đăng Nhập Lại !",
+                "TypeAccount": "Hãy Nhập Tài Khoản: ",
+                "TypePassword": "Hãy Nhập Mật Khẩu: ",
+                "TypeAccountError": "Tài Khoản Cần Là ID Hoặc Số Điện Thoại Hay Là Gmail !",
+                "ErrDataBase": "Lỗi Khi Đặt Dữ Liệu Auto Login !",
+                "SuccessSetData": "Đã Đặt Dữ Liệu Auto Login Thành Công !",
+                "Missing": "Bạn Vui Lòng Ghi Mã 2Fa Theo Hướng Dẫn Của Ảnh Trong FastConfigFca.json Dòng AuthString !",
+
+                "EnterSecurityCode": "Hãy Nhập Mã Xác Thực 2 Yếu Tố Của Bạn: ",
+                "ErrThroughCookies": "Đã Xảy Ra Lỗi Khi Xuyên 2Fa, Hãy Nhập Mã 2Fa Lại !",
+
+                "WishMessage": [
+                    "Chúc Bạn Một Ngày Tốt Lành Nhé !",
+                    "Hãy Báo Cáo Với Admin Khi Có Lỗi Fca Nhé !",
+                    "Cảm Ơn Đã Sử Dụng Fca Của Horizon !",
+                    "Donate Tại: Momo: 0946838477"
+                ]
+            },
+            "ExtraGetThread": {
+                "CreateDatabaseSuccess": "Khởi Tạo Thành Công Database Cho Nhóm: %1",
+                "CreateDatabaseFailure": "Khởi Tạo Thất Bại Database Của Nhóm: %1",
+                "alreadyUpdate": "%1 Đã Sẵn Sàng Để Update Database",
+                "updateDataSuccess": "Cập Nhật Dữ Liệu Cho Nhóm %1 Thành Công !",
+                "updateDataFailure": "Cập Nhật Dữ Liệu Cho Nhóm %1 Thất Bại !"
+            },
+            "ExtraUpTime": {
+                "Uptime": "Kết Nối Đến Server Uptime Thành Công !",
+                "PM2": "Đang Vào Chế Độ Uptime !",
+                "InPm2Mode": "Bạn Đang Ở Chế Độ Uptime PM2",
+                "NotSupport": "Không Hỗ Trợ Uptime Server!",
+                "Maintenance": "Server Uptime Đang Bảo Trì, Hãy Thử Lại Sau !"
+            },
+            "Src": {
+                "AutoRestart": "Tự Động Khởi Động Lại Sau: %1 Phút Nữa !",
+                "OnRestart": "Đang Restart..."
+            }
+        }
+    },
+    {
+        "Language": "en",
+        "Folder": {
+            "Index": {
+                "ErrAppState": "Appstate - Your Cookie Is Wrong, Please Replace It, Or Go To Incognito Browser Then Sign In And Try Again !\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "CheckPointLevelI": "CheckPoint Detected - Can't Login, Try Logout Then Login And Retrieve Appstate - Cookie !\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "UID": "Login as ID: %1\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "Area": "Area Of Account Is: %1\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "NoAreaData": "Can't Get Area Of Account !\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "OnLogin": "Currently logged ...\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "InvaildAccount": "Wrong Password Or Account !\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "TwoAuth": "You Currently On 2 Factor Security !\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "InvaildTwoAuthCode": "Wrong Code Two Factor Security !\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "ApprovalsErr": "Error When Login With Two Factor Security !\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "VerifiedCheck": "Confirm From Browser, Logging In...\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "ForceLoginNotEnable": "Can't Login, Try Enable 'forceLogin' !\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "SubmitErrSuccess": "Error Report Sent To Server !\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "ErrorWhileSendErr": "An error occurred while trying to send an error to the server !\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "OnProcess": "Start the Login Process !\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "BackupNoti": "Changing AppState From Backup, If This Continues, Contact Fb.com/Monster.suqad.onwer\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "ErrGetPassWord": "Error Retrieving AppState Encryption Password !\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "ErrGenerateKey": "Error Creating Password For AppState !\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "UnsupportedDevice": "Your Operating System Is Currently Not Supported !\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "NotReadyToDecrypt": "Not Ready To Solve Appstate !\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "DecryptSuccess": "Successfully Appstate Solved !\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "ErrBackup": "Error When Backing Up AppState, Please Replace AppState !\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "DecryptFailed": "Solution Failed, Try Replacing AppState !\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "InvaildAppState": "AppState Not Recognized, Please Replace AppState !\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "YourAppStatePass": "Your AppState Password Is: %1\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "BackupFailed": "AppState Backup Failed !\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "ScreenShotConsoleAndSendToAdmin": "Take a Screenshot of This Line And Send It To Facebook: Fb.com/Monster.suqad.onwer\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "DoneLogin": "Complete the Login Process !\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "AutoCheckUpdate": "Checking for Updates !\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "NewVersionFound": "New Version, Ready to Update: %1 => %2\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "AutoUpdate": "Perform Automatic Update to the Latest Version !\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "UpdateSuccess": "Upgrade Version Successfully !\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "RestartAfterUpdate": "Rebooting For New Version To Take Effect !\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "UpdateFailed": "Error When Upgrading To Latest Version !\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "UseSupportToolAfterUpdateFailed": "Upgrade Failed, Proceed to Using Support Tools !\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "InstallSupportTool": "Loading Support Tools For FCA !\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "NotiAfterUseToolFail": "Please Fix It Yourself By Entering:\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "LocalVersion": "You Are Currently Using Version: %1 !\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "EncryptSuccess": "Encrypt Appstate Success !\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "ProcessDone": "Process Done: %1 !\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "InvaildMainColor": "%1 Is Not A Hex Color Code \n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜!",
+                "IsNotABoolean": "%1 Is Not A Boolean, Need To Be true Or false !\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "EncryptStateOff": "Encryption Has Been Turned Off !\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "InvaildOption": "Invail Option: %1\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "CountTime": "Total Time You Use: %1\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+
+                "AutoLogin": "AutoLogin Is On, Proceed to Log Back in!\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "TypeAccount": "Enter Account: \n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "TypePassword": "Enter a Password: \n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "TypeAccountError": "The account needs to be an ID or Phone number or Gmail!\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "ErrDataBase": "Error When Setting Auto Login Data !\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "SuccessSetData": "Auto Login Data Set Successfully !\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "Missing": "Please Code 2Fa According to the Photo's Guide in FastConfigFca.json Series AuthString!\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "EnterSecurityCode": "Enter your 2-Factor Authentication Code: \n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "ErrThroughCookies": "2Fa Piercing Error Occurred, Enter Code 2Fa Again! \n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+
+                "WishMessage": [
+                    "Have a Nice Day !\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                    "Please Report To Admin When There Is Error in FCA !\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                    "Thank You For Using ALi Koja's FCA !\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜"
+                ]
+            },
+            "ExtraGetThread": {
+                "CreateDatabaseSuccess": "Successfully Initiate Database for Group: %1\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "CreateDatabaseFailure": "Initialization of Group Database Failure: %1\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "alreadyUpdate": "%1 Ready to Update Database\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "updateDataSuccess": "Data Update for Group %1 Success!\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "updateDataFailure": "Data Update for Group %1 Failed!\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜"
+            },
+            "ExtraUpTime": {
+                "Uptime": "Connecting To Server Uptime Succeeds!\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "PM2": "Trying to PM2 Mode!\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "InPm2Mode": "You Are In Uptime PM2 Mode !\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "NotSupport": "Your Operating System does not currently support Uptime Server !\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "Maintenance": "Server Uptime In Maintenance, Try Again Later!\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜"
+            },
+            "Src": {
+                "AutoRestart": "Automatically Restart After: %1 Minutes !\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜",
+                "OnRestart": "Restarting...\n\n\n ᚛❆𝘾𝙤𝙙𝙚 𝘽𝙮 𝘼𝙇𝙞 𝙆𝙤𝙟𝙖❆᚜"
+            }
+        }
+    }
+]
